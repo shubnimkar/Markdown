@@ -258,7 +258,7 @@ See more: [https://shields.io/](https://shields.io/)
 
 # Some links for more in depth learning
 
-:page_facing_up: [Markdown Extras](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#markdown---extras)
+:page_facing_up: [Markdown Extras](https://github.com/shubnimkar/Markdown/blob/f81f7360b4381148c794b55f11bd2f3b2e7c693b/markdown-extras.md)
 
 :page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
 
