@@ -250,6 +250,7 @@ _   underscore
 See more: [https://shields.io/](https://shields.io/)
 
 [![GitHub forks](https://img.shields.io/github/forks/fefong/markdown_readme)](https://github.com/fefong/markdown_readme/network)
+
 ![Markdown](https://img.shields.io/badge/markdown-project-red)
 
 # Markdown Editor
@@ -260,7 +261,5 @@ See more: [https://shields.io/](https://shields.io/)
 
 :page_facing_up: [Markdown Extras](https://github.com/shubnimkar/Markdown/blob/f81f7360b4381148c794b55f11bd2f3b2e7c693b/markdown-extras.md)
 
-:page_facing_up: [Wikipedia - Markdown](https://pt.wikipedia.org/wiki/Markdown)
-
-:page_facing_up: [Oficial](https://daringfireball.net/projects/markdown/)
+:page_facing_up: [Markdown Emoji](https://github.com/shubnimkar/Markdown/blob/86b8a2f8809d76c735a27a6482eba7d052285d49/emoji.md)
 
