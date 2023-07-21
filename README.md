@@ -245,7 +245,6 @@ _   underscore
 
 # Shields Badges
 
-:warning: _We are not responsible for this site_
 
 See more: [https://shields.io/](https://shields.io/)
 
